@@ -33,5 +33,7 @@ Meta Platforms: Данные передаются Meta для API (см. их Te
 7. Изменения в Политике
 Мы уведомим за 30 дней (email или в app). Продолжение использования = согласие.
 8. Контакты
-Вопросы: alien.technologies2025@gmail.com. Для Meta: Соответствуем Developer Policy.
+Вопросы: alien.technologies2025@gmail.com.
+Тел: +77057295059
+Для Meta: Соответствуем Developer Policy.
 
